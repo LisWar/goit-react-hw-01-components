@@ -1,5 +1,5 @@
 
-import PropTypes from 'prop-types';
+//import PropTypes from 'prop-types';
 import Profile from './Profile/Profile';
 import Statistics from './Statistics/Statistics';
 import FriendList from './Friendlist/FriendList';

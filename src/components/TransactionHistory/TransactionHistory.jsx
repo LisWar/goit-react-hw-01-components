@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import TransactionInfo from './TransactionInfo';
-import {Container, TableHead, Stats, StatPoint} from './TransactionHistory.styled'
+import {Container, TableHead, } from './TransactionHistory.styled'
 
 
 const TransactionHistory = ({transactions}) => (    
